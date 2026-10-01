@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Employee-Management-System
 =======
+=======
+>>>>>>> 28b951f781058a5e9903a97739142599b1e4c065
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -20,6 +23,7 @@ You can also try [the experimental native React Compiler support in plugin-react
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<<<<<<< HEAD
 >>>>>>> 28b951f (Project files)
 
 
@@ -37,3 +41,5 @@ Requirement:
 Material UI:
 Routing (react-router-dom)
 API (axios)
+=======
+>>>>>>> 28b951f781058a5e9903a97739142599b1e4c065

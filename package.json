@@ -10,16 +10,24 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "axios": "^1.20.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "react-router-dom": "^7.18.4"
+=======
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+>>>>>>> 28b951f781058a5e9903a97739142599b1e4c065
   },
   "devDependencies": {
     "@babel/core": "^7.29.7",
     "@eslint/js": "^10.0.1",
     "@rolldown/plugin-babel": "^0.2.3",
+<<<<<<< HEAD
     "@tailwindcss/vite": "^4.3.3",
+=======
+>>>>>>> 28b951f781058a5e9903a97739142599b1e4c065
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.7",
     "@vitejs/plugin-react": "^6.1.1",
@@ -28,7 +36,10 @@
     "eslint-plugin-react-hooks": "^7.1.1",
     "eslint-plugin-react-refresh": "^0.5.6",
     "globals": "^17.12.0",
+<<<<<<< HEAD
     "tailwindcss": "^4.3.3",
+=======
+>>>>>>> 28b951f781058a5e9903a97739142599b1e4c065
     "vite": "^8.3.0"
   }
 }
